@@ -1,0 +1,5 @@
+streamlit
+mplfinance
+six>=1.16.0
+pandas
+matplotlib
